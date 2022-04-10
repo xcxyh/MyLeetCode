@@ -1,11 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/compiler.xml
-.idea/encodings.xml
-.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/workspace.xml
+.idea/
 fight-for-2020.iml
 javacode/src/test/
 javacode/target/
